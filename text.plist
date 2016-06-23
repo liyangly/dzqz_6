@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.mgear.msaVisa20131118</string>
 				<key>bundle-version</key>
-				<string>1.6.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>电子签证</string>
+				<string>货物比对</string>
 			</dict>
 		</dict>
 	</array>

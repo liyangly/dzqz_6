@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.148:8020/GangFuTong/html/ShipGoodApplyCompare.ipa</string>
+					<string>http://192.168.1.148:8020/GangFuTong/html/dzqz_6.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.mgear.ShipGoodApplyCompare</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.6.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>货物比对</string>
+				<string>电子签证</string>
 			</dict>
 		</dict>
 	</array>
